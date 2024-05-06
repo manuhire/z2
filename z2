@@ -1,2 +1,5 @@
 print("mansi hire 225")
 print("i am a chatbot my name is mansi")
+x = 5
+y = 10
+print(x + y)
